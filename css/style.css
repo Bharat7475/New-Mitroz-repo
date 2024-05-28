@@ -12203,9 +12203,9 @@ header.sticky .navbar.header-dark .navbar-toggler-line {
  /* new style added */
       .stories-card-bg-img-1{
         position: absolute;
-        width: 62%;
-        left: 19%;
-        height: 86px;
+        width: 70%;
+        left: 15%;
+        height: 115px;
         object-fit: cover;
         margin-top: 18%;
     
@@ -12213,12 +12213,13 @@ header.sticky .navbar.header-dark .navbar-toggler-line {
 
       .stories-card-bg-img {
         position: absolute;
-        width: 62%;
-        left: 19%;
-        height: 121px;
+        width: 70%;
+        left: 15%;
+        height: 155px;
         object-fit: cover;
         margin-top: 18%;
     }
+    
      
 
     /* .stories-card-bg-img {
